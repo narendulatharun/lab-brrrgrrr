@@ -14,6 +14,8 @@ var ingredients = {
   Lettuce: 20
 };
 
+//I have included this comment to see the change in the GitHub 
+
 //Current state of the ingredients in the burger
 var state = {
   Patty: true,
